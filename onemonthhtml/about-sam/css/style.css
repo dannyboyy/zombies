@@ -1,0 +1,31 @@
+body {
+  line-height: 1.5;
+  color: white;
+
+  background: url('../images/daft-sam.gif');
+  /* Full Page Background Receipe */
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.container {
+  width: 500px;
+  margin: 40px;
+  background: gray;
+  padding: 10px;
+}
+
+h1 {
+	font-size: 60px;
+	margin-bottom: -30px;
+}
+
+h2 {
+	font-size: 30px;
+}
+
+a {
+	color: green;
+	text-decoration: none;
+}
